@@ -4,7 +4,8 @@
 Design a 4-bit prime number detector using **CMOS logic gates** and implement it in **Cadence Virtuoso**. The detector outputs `1` for prime numbers (2, 3, 5, 7, 11, 13).
 
 ## Files
-- [EE6540L_LAB_1.pdf](EE6540L_LAB_1.pdf) – Full lab report with truth table, K-map, schematic, simulation results.
+- [EE6540L_LAB_1.pdf](EE6540L_LAB_1.pdf) – Full lab report with truth table, K-map, schematic, simulation results.(*Note: Click on the PDF link above to view the file. If GitHub shows "Unable to render code block," click the **Download** button to open it locally.*)
+
   
 
 ## Tools Used
