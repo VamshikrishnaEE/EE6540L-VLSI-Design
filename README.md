@@ -1,2 +1,2 @@
-# EE6540L-VLSI-Design
-VLSI Design Laboratory projects for EE6540L at Wright State University, focusing on CMOS device and circuit design, layout planning, fabrication processes, system timing and power analysis, and simulation of signal processing architectures in VLSI.
+# Very Large Scale Integrated Circuit Design
+Introduction to VLSI system design. Topics include CMOS devices and circuit design techniques, basic building blocks for CMOS design, fabrication processing and design rules, chip planning and layout, system timing and power dissipation, simulation for VLSI design, and signal processing with VLSI.
