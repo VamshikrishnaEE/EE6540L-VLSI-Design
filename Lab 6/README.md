@@ -20,7 +20,7 @@ Key observations:
 ## For Detailed Diagrams and Waveforms
 
 Please refer to the PDF file:  
-👉 [EE6540Lab-6.pdf](./EE6540Lab-6.pdf)
+👉 [ee6540Lab-6.pdf](./ee6540Lab-6.pdf)
 
 ---
 
